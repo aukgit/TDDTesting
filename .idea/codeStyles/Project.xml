@@ -1,0 +1,37 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="classCountToUseImportOnDemand" value="6" />
+      <option name="doNotChangeLocalImportsOnOptimize" value="false" />
+      <option name="FINALLY_BRACE_FORCE" value="3" />
+      <option name="TRY_BRACE_FORCE" value="3" />
+      <option name="ALIGN_IF_ELSE" value="true" />
+      <option name="NOT_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
+      <option name="INDENT_FIRST_PARAMETER" value="false" />
+      <option name="INDENT_FIRST_PARAMETER_CLAUSE" value="true" />
+      <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
+      <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
+      <option name="SPACES_IN_ONE_LINE_BLOCKS" value="true" />
+      <option name="SPACES_IN_IMPORTS" value="true" />
+      <option name="SPACES_AROUND_AT_IN_PATTERNS" value="true" />
+      <option name="NEWLINE_AFTER_ANNOTATIONS" value="true" />
+      <option name="SPACE_BEFORE_TYPE_PARAMETER_LEADING_CONTEXT_BOUND_COLON" value="true" />
+      <option name="CALL_PARAMETERS_NEW_LINE_AFTER_LPAREN" value="2" />
+      <option name="KEEP_XML_FORMATTING" value="true" />
+      <option name="MULTILINE_STRING_ALIGN_DANGLING_CLOSING_QUOTES" value="true" />
+      <option name="MULTI_LINE_QUOTES_ON_NEW_LINE" value="false" />
+      <option name="TYPE_ANNOTATION_UNDERSCORE_PARAMETER" value="true" />
+      <option name="SD_BLANK_LINE_AFTER_PARAMETERS_COMMENTS" value="true" />
+      <option name="SD_BLANK_LINE_AFTER_RETURN_COMMENTS" value="true" />
+      <option name="ENFORCE_FUNCTIONAL_SYNTAX_FOR_UNIT" value="false" />
+      <option name="TRAILING_COMMA_MODE" value="TRAILING_COMMA_REMOVE_WHEN_MULTILINE" />
+    </ScalaCodeStyleSettings>
+    <codeStyleSettings language="XML">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
